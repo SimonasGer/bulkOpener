@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "Bulk Opener",
+    "version": "1.0",
+    "description": "Opens Tabs",
+    "action": {
+      "default_popup": "popup.html"
+    }
+  }
+  

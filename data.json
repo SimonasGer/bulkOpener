@@ -1,0 +1,23 @@
+[
+    {
+        "url": "https://www.youtube.com",
+        "settings":{
+            "set_demo1": 1,
+            "set_demo2": 5
+        }
+    },
+    {
+        "url": "https://www.google.com",
+        "settings":{
+            "set_demo1": 1,
+            "set_demo2": 5
+        }
+    },
+    {
+        "url": "https://www.x.com",
+        "settings":{
+            "set_demo1": 1,
+            "set_demo2": 5
+        }
+    }
+]
